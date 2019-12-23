@@ -534,11 +534,13 @@ a.cta:focus {
 	display: flex;
 }
 
+/*
 .get-tab a:focus,
 .get-tab a:active,
 .get-tab a:hover {
 	color: #ce3232;
 }
+*/
 
 
 
@@ -637,6 +639,13 @@ a.cta:focus {
     vertical-align: middle;
     display: inline-block;
 }
+
+
+.footer-socmed a:active,
+.footer-socmed a:focus {
+    color: #6524ca !important;
+}
+
 
 .line-copyright {
     border-top: 1px solid #343333;
