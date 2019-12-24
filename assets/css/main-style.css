@@ -176,6 +176,13 @@ section {
 }
 
 
+@media (max-width: 767px){
+    .img-big-apps {
+        width: 60%;
+    }
+
+}
+
 
 
 
@@ -695,16 +702,21 @@ a.cta:focus {
     width: 100%;
     padding-bottom: 30px;
 }
-
+/*
 .apps-list img {
     width: 100%;
     margin: auto;
 }
-
+*/
 .info-apps {
     padding-bottom: 30px;
 }
 
+@media (max-width: 767px){
+    /*.apps-list-img img {
+        width: 50% !important;
+    }*/
+}
 
 
 
