@@ -180,7 +180,10 @@ section {
     .img-big-apps {
         width: 60%;
     }
-
+    
+    section {
+        padding-bottom: 0;
+    }
 }
 
 
