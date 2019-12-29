@@ -386,6 +386,7 @@ a.cta {
 }
 
 a.cta:hover, 
+a.cta:active, 
 a.cta:focus {
  	background: #c20f0f;
     border-color: transparent;
